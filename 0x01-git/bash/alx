@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 echo "ALX"
 ALX
+=======
+ALX School
+>>>>>>> update_script
